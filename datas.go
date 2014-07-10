@@ -1,4 +1,4 @@
-package pinyin
+package gopinyin
 
 var PinyinDataMap = map[string]string{
 	"50CA": "xian",
